@@ -1,1 +1,1 @@
-# BE-Study-Group
+# JS-Study-Group
