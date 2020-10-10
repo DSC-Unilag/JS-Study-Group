@@ -1,4 +1,7 @@
 
-Akinsanya Taiwo - akinsanyaTaiwo.js
-Enjeghe Onukak  enjegheOnukak.js
+1. Akinsanya Taiwo - akinsanyaTaiwo.js
+2. Enjeghe Onukak - enjegheOnukak.js
+3. Animashaun Taofiq - taofiqAnimashaun.js
+
+
 
