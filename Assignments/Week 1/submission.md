@@ -7,3 +7,4 @@
 6. Ayobami Tunwase - ayobamiTunwase.js
 7. Oke Olalekan - okeOlalekan.js
 8. Adewoye Adegoke - adegokeAdewoye.js
+9. Eribake Oluwatimilehin - EribakeOluwatimilehin.js
