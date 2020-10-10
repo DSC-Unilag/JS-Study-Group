@@ -1,7 +1,7 @@
 
 //Using only what we've covered
 
-let celsiusTemparature = 35;
+let celsiusTemparature = 37;
 
 let fahrenheitTemparature = ( ( celsiusTemparature * ( 9/5 ) ) + 32 );
 
