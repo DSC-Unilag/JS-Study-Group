@@ -1,1 +1,7 @@
-Name: Animashaun Taofiq,  FileName: taofiqAnimashaun.js
+
+1. Akinsanya Taiwo - akinsanyaTaiwo.js
+2. Enjeghe Onukak - enjegheOnukak.js
+3. Animashaun Taofiq - taofiqAnimashaun.js
+
+
+
