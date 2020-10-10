@@ -7,4 +7,11 @@
 6. Ayobami Tunwase - ayobamiTunwase.js
 7. Oke Olalekan - okeOlalekan.js
 8. Adewoye Adegoke - adegokeAdewoye.js
-9. Adebowale Jesutofunmi- adebowaleJesutofunmi.js
+9. Priyal Tiwary- priyalTiwary.js
+10. Olaifa Boluwatife - boluwatifeOlaifa.js
+11. Justice Osemede - justiceOsemede.js
+12. Adeola Idowu - adeolaIdowu.js
+13. Salvador AbdulRahman Lekan - salvadorlekan.js
+14. Adebowale Jesutofunmi- adebowaleJesutofunmi.js
+
+
