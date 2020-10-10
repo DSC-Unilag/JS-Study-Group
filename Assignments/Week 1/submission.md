@@ -19,4 +19,5 @@
 19. Afam Daniel - danielAfam.js
 20. Yisau Abdussamad - yisauAbdussamad.js
 21. Ademoye Mahmood - ademoyeMahmood.js
+22. Eribake Oluwatimilehin - EribakeOluwatimilehin.js
 
