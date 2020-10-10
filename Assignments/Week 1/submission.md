@@ -20,4 +20,5 @@
 20. Yisau Abdussamad - yisauAbdussamad.js
 21. Ademoye Mahmood - ademoyeMahmood.js
 22. Eribake Oluwatimilehin - EribakeOluwatimilehin.js
+23. Ohia Kennedy - kennedyOhia.js
 
