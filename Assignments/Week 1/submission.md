@@ -29,5 +29,6 @@
 29. Jacob Daniel -jacobdaniel.js
 30. Faruq Bakare - bakareFaruq.js
 31. Mujeeb Abdulrahman - AbdulrahmanMujeeb.js
+32. Caleb Stanley - calebStanley.js
 
 
