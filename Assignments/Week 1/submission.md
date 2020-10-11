@@ -1,4 +1,3 @@
-
 1. Akinsanya Taiwo - akinsanyaTaiwo.js
 2. Enjeghe Onukak - enjegheOnukak.js
 3. Animashaun Taofiq - taofiqAnimashaun.js
@@ -28,3 +27,5 @@
 27. Ohia Kennedy - kennedyOhia.js
 28. Olawanle Temitayo - olawanleTemitayo.js
 29. Jacob Daniel -jacobdaniel.js
+30. Faruq Bakare - bakareFaruq.js
+
