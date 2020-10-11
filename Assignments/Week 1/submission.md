@@ -22,7 +22,12 @@
 22. Eribake Oluwatimilehin - EribakeOluwatimilehin.js
 23. Aliyu Abdul Ganiy -aliAbdulGaniy.js
 24. Mofikoya Oluwatosin - oluwatosinMofikoya.js
-25. Mujeeb Abdulrahman - AbdulrahmanMujeeb.js
-
+25. Olaoluwa Ezekiel Dada - olaoluwaDada.js
+26. Abdulhameed Hussein - abdulhameedHussein.js
+27. Ohia Kennedy - kennedyOhia.js
+28. Olawanle Temitayo - olawanleTemitayo.js
+29. Jacob Daniel -jacobdaniel.js
+30. Faruq Bakare - bakareFaruq.js
+31. Mujeeb Abdulrahman - AbdulrahmanMujeeb.js
 
 
