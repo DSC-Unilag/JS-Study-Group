@@ -20,4 +20,9 @@
 20. Yisau Abdussamad - yisauAbdussamad.js
 21. Ademoye Mahmood - ademoyeMahmood.js
 22. Eribake Oluwatimilehin - EribakeOluwatimilehin.js
-23. Olaoluwa Ezekiel Dada- Olaoluwadada.js
+23. Aliyu Abdul Ganiy -aliAbdulGaniy.js
+24. Mofikoya Oluwatosin - oluwatosinMofikoya.js
+25. Olaoluwa Ezekiel Dada- Olaoluwadada.js
+
+
+
