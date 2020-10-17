@@ -60,7 +60,7 @@ function phScale(int) {
     } else if(int > 7) {
         return("alkaline");
     } else if(int === 7){
-        return("neutral")
+        return("neutral");
     }else {
         return("Enter a number between 0-14.");
     }
