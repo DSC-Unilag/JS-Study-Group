@@ -5,7 +5,7 @@ if(n>=70 && n<=100){
 if(n>=60 && n<=69){
 	console.log("Your grade is B")
 }
-if(n>=60 && n<=69){
+if(n>=50 && n<=59){
 	console.log("Your grade is C")
 }
 if(n>=45 && n<=49){
