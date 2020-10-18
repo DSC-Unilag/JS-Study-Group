@@ -44,5 +44,5 @@ if (PH_value > 7 && PH_value < 15) {
 } else 
 {scale = `${"invalid"}`}
    
-   
+   console.log(PH_value);
    console.log(scale);
