@@ -1,6 +1,6 @@
 function grade(score) {
 	switch (true) {
-		case (score >= 70):
+		case (score >= 70 && score <= 100):
 			console.log('A');
 			break;
 		case (score >= 60 && score <= 69):
@@ -15,8 +15,11 @@ function grade(score) {
 		case (score >= 40 && score <= 44):
 			console.log('E');
 			break;
-		default:
+		case (score < 40 && score >= 0):
 			console.log('F');
+			break;
+		default:
+			console.log('No go dey do pass yourself');
 	}
 }
 let input = prompt('Enter your score');
@@ -24,9 +27,9 @@ grade(input);
 
 let ph = prompt('Enter the ph');
 function phScale(num) {
-	if (num > 7) {
+	if (num > 7 && num < 15) {
 		console.log('Alkaline');
-	} else if (num < 7) {
+	} else if (num < 7 && num > 0) {
 		console.log('Acidic');
 	} else if (num == 7) {
 		console.log('Neutral');
