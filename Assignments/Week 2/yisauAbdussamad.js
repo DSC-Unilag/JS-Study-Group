@@ -1,34 +1,19 @@
 function gradeInterpreter(int) {
-    A = []
-    B= []
-    C = []
-    D = []
-    E = []
-    F = []
-
-    for (let index = 70; index <= 100; index++) {
-        A.push(index);
+    function range(start, stop, step) {
+        var a = [start], b = start;
+        while (b < stop) {
+            a.push(b += step || 1);
+        }
+        return a;
     }
 
-    for (let index = 60; index <= 69; index++) {
-        B.push(index);
-    }
+    A = range(70,100);
+    B = range(60,69);
+    C = range(50, 59);
+    D = range(45,49);
+    E = range(40,44);
+    F = range(0,39);
 
-    for (let index = 50; index <= 59; index++) {
-        C.push(index);
-    }
-
-    for (let index = 45; index <= 49; index++) {
-        D.push(index);
-    }
-
-    for (let index = 40; index <= 44; index++) {
-        E.push(index);
-    }
-
-    for (let index = 0; index <= 39; index++) {
-        F.push(index);
-    }
 
     if (A.includes(int)) {
         return('A');
