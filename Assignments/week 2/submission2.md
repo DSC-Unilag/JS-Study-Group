@@ -1,4 +1,3 @@
 ## Input your name, file name and phone number here
-NAME: Olubiyi Emmanuel Adesola,
-FILE NAME: Olubiyi Emmanuel,
-NUMBER: 08116604581
+1. Yisau Abdussamad, yisauAbdussamad, 08123884098.
+2. Olubiyi Emmanuel Adesola, olubiyiEmmanuel, 08116604581
