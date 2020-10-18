@@ -1,2 +1,4 @@
 ## Input your name, file name and phone number here
-Oluwatosin Mofikoya - oluwatosinMofikoya.js - 07081534129
+1. Yisau Abdussamad, yisauAbdussamad, 08123884098.
+2. Olubiyi Emmanuel Adesola, olubiyiEmmanuel, 08116604581
+3. Oluwatosin Mofikoya - oluwatosinMofikoya.js - 07081534129
