@@ -45,4 +45,38 @@ if (PH_value > 7 && PH_value < 15) {
 {scale = `${"invalid"}`}
    
    console.log(PH_value);
+   
    console.log(scale);
+   
+   
+ 
+    // Week 3 Assignment
+
+    function squaresSum(n) {
+
+      var num = 1;
+      for (let i = 0; i < 2; i++) {
+        num = num * n;
+      }
+
+      console.log(num);
+      document.write(num);
+    }
+
+    squaresSum(78);
+    
+    
+    
+    function sumUp(n) {
+      let c = 1;
+      let d;
+      let arr = [];
+      for (c; c <= n; c++) {
+        d = c ** 2
+        arr.push(d)
+        //console.log(d)
+      }
+      let reducedArr = arr.reduce((a, b) => { return a + b })
+      console.log(reducedArr)
+    }
+    sumUp(5)
