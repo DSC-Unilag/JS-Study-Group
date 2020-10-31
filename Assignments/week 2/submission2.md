@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Input your name, file name and phone number here
 1. Yisau Abdussamad, yisauAbdussamad, 08123884098.
 2. Olubiyi Emmanuel Adesola, olubiyiEmmanuel, 08116604581
@@ -9,3 +10,6 @@
 8. Olowu Olusimisola - OlowuOlusimisola.js 08050636630 
 9. Abdulhameed Hussein, abdulhameedHussein2.js,09016167744
 10. Adebowale Jesutofunmi - adebowaleJesutofunmi.js - 08189493028
+=======
+ Daniel Afam, danielAfam.js, 09039539787
+>>>>>>> a5401dc0a3c29529cf433f78bb02767168d48682
