@@ -14,13 +14,13 @@ function primeNum(num) {
 	}
 	//Summing the values in the array
 	let sum = arr.reduce((a, b) => {
-		return a + b
+		return a + b;
 	})
 	//Using the argument to deduct if it's a prime number'
   if (sum == (num - 2)) {
-  	  console.log(`${num} is a prime number`)
+  	  console.log(`${num} is a prime number`);
   } else {
-  	  console.log(`${num} is not a prime number`)
+  	  console.log(`${num} is not a prime number`);
   }
 };
 primeNum(4)
