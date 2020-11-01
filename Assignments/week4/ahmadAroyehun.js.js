@@ -1,8 +1,21 @@
 function prime(num) {
-    if(num % num === 0 && num % 1 === 0){
-        return true
+    if (num===1)
+    {
+      return false;
     }
-    else {
-        return false
+    else if(num === 2)
+    {
+      return true;
+    }else
+    {
+      for(var x = 2; x < num; x++)
+      {
+        if(num % x === 0)
+        {
+          return false;
+        }
+      }
+      return true;  
     }
 }
+console.log(prime(15))
