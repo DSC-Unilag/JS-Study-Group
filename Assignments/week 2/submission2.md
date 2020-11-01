@@ -1,7 +1,6 @@
 
 ## Input your name, file name and phone number here
 
-1. Samuel Shodipo - samuelShodipo.js 08087118767
 1. Yisau Abdussamad, yisauAbdussamad, 08123884098.
 2. Olubiyi Emmanuel Adesola, olubiyiEmmanuel, 08116604581
 3. Oluwatosin Mofikoya - oluwatosinMofikoya.js - 07081534129
@@ -14,3 +13,5 @@
 10. Adebowale Jesutofunmi - adebowaleJesutofunmi.js - 08189493028
 11. Priyal Tiwary - priyalTiwary1.js - 8927601405
 12. Motunrayo Ilawole - motunrayoIlawole.js - 07013752227.
+13. Samuel Shodipo - samuelShodipo.js 08087118767
+14. Akinsanya Taiwo - akinsanyaTaiwo.js - 09026110242
