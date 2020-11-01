@@ -6,6 +6,7 @@
 6. Ayobami Tunwase - ayobamiTunwase.js
 7. Oke Olalekan - okeOlalekan.js
 8. Adewoye Adegoke - adegokeAdewoye.js
+
 9. Priyal Tiwary- priyalTiwary.js
 10. Olaifa Boluwatife - boluwatifeOlaifa.js
 11. Justice Osemede - justiceOsemede.js
@@ -20,6 +21,9 @@
 20. Yisau Abdussamad - yisauAbdussamad.js
 21. Ademoye Mahmood - ademoyeMahmood.js
 22. Eribake Oluwatimilehin - EribakeOluwatimilehin.js
+
+23. Adeleye Temilade - AdeleyeTemilade.js
+
 23. Aliyu Abdul Ganiy -aliAbdulGaniy.js
 24. Mofikoya Oluwatosin - oluwatosinMofikoya.js
 25. Olaoluwa Ezekiel Dada - olaoluwaDada.js
@@ -31,6 +35,9 @@
 31. Mujeeb Abdulrahman - AbdulrahmanMujeeb.js
 32. Caleb Stanley - calebStanley.js
 33. Adeyemi Jammal - adeyemiJammal
-34. Samuel Kayode - samuelKayode.js
+
+34. Samuel Shodipo - samuelShodipo.js
+
+
 
 
