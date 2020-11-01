@@ -20,4 +20,4 @@
 19. Abideen Muhammed, abideenMuhammed.js,    08179651769
 20. Ayobami Tunwase - ayobamiTunwase.js : 08175406220
 21. Enjeghe Onukak - enjegheOnukakFour.js - 09057485825
-
+22. Salvador Lekan, SalvadorLekanIsPrime.js, +2349056027157
