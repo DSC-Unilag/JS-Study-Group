@@ -23,4 +23,5 @@
 22. Salvador Lekan, SalvadorLekanIsPrime.js, +2349056027157
 23. Adeola Idowu, adeolaIdowu - week4.js, +2347088148692
 24. Olawanle Temitayo - olawanleTemitayo.js 07018315632
+25. Justice Osemede- justiceOsemede.js- 08167315203
 
