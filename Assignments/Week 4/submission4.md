@@ -21,4 +21,8 @@
 20. Ayobami Tunwase - ayobamiTunwase.js : 08175406220
 21. Enjeghe Onukak - enjegheOnukakFour.js - 09057485825
 22. Salvador Lekan, SalvadorLekanIsPrime.js, +2349056027157
-23. Abdullah Mumuni, week4.js, 08085008872
+23. Adeola Idowu, adeolaIdowu - week4.js, +2347088148692
+24. Olawanle Temitayo - olawanleTemitayo.js 07018315632
+25. Justice Osemede- justiceOsemede.js- 08167315203
+26.  Daniel Afam, danielAfam.js 09039539787
+27. Abdullah Mumuni, week4.js, 08085008872
