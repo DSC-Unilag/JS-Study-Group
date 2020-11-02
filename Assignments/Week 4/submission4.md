@@ -21,3 +21,4 @@
 20. Ayobami Tunwase - ayobamiTunwase.js : 08175406220
 21. Enjeghe Onukak - enjegheOnukakFour.js - 09057485825
 22. Salvador Lekan, SalvadorLekanIsPrime.js, +2349056027157
+23. Adeola Idowu, adeolaIdowu - week4.js, +2347088148692
