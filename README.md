@@ -1,11 +1,16 @@
 # JS-Study-Group
 
-## How To Submit Weekly Assignment
+## Week 5 Assignment
 
-1. Grade Interpreter
-• Make a program that interpreted a person's grade. The program should be able to give the
-person a certain grade ranging from A to F depending on the score of the person.
-100 - 70 = A, 69 - 60 = B, 59 - 50 = C, 49 - 45= D, 44 - 40 = E, 39 and below = F
-2. PH Scale
-• Given a pH value, return whether that value is "alkaline" (greater than 7), "acidic" (less than
-7), or "neutral" (7). Return "invalid" if the value given is less than 0 or greater than 14
+Week 5 Assignment
+1. MAGIC EIGHT BALL PROJECT.
+Make a program that generates one of these answers when I ask a question.
+2. Create a function that takes two numbers as arguments (num, length) and returns an
+array of multiples of num until the array length reaches length.
+Examples
+arrayOfMultiples(7, 5) ➞ [7, 14, 21, 28, 35] arrayOfMultiples(12, 10) ➞ [12, 24, 36, 48, 60, 72, 84,
+96, 108, 120] arrayOfMultiples(17, 6) ➞ [17, 34, 51, 68, 85, 102]
+3. Fibonacci Sequence
+Write a JavaScript program to get the first n Fibonacci numbers.
+Note: The Fibonacci Sequence is the series of numbers: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, . . . Each
+subsequent number is the sum of the previous two.

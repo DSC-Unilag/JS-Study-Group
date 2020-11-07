@@ -31,5 +31,8 @@
 31. Mujeeb Abdulrahman - AbdulrahmanMujeeb.js
 32. Caleb Stanley - calebStanley.js
 33. Adeyemi Jammal - adeyemiJammal
+34. Samuel Kayode - samuelKayode.js
+35. Samuel Shodipo - samuelShodipo.js
+36. Adeleye Temilade - AdeleyeTemilade.js
 
 
