@@ -17,4 +17,5 @@
 16. Salvador Lekan, SalvadorLekan.js - +2349056027157
 17. Aroyehun Ahmad, ahmadAroyehun-wk2.js, 07054547240
 18. Adeola Idowu, adeolaIdowu - Week 2.js, 07088148692
+19. Daniel Afam, danielAfam.js, 09039539787
 
