@@ -70,9 +70,11 @@ const fibonacciSequence = [];
 const fibSeq = (n) => {
     fibonacciSequence.splice(0, fibonacciSequence.length);
     if (n === 0){
-        return fibonacciSequence.push(0);
+        fibonacciSequence.push(0);
+        return fibonacciSequence;
     }else if (n === 1){
-        return fibonacciSequence.push(0,1);
+        fibonacciSequence.push(0,1);
+        return fibonacciSequence;
     }else if (n > 1){
         fibonacciSequence.push(0,1);
         for( i = 2; i < n; i++ ){
@@ -82,7 +84,8 @@ const fibSeq = (n) => {
         }
     }
     let value = fibonacciSequence[n-1]
-    return (fibonacciSequence, `The ${n} fibonacci sewuence number is ${value}`);
+    console.log(fibonacciSequence);
+    return `The ${n} fibonacci sewuence number is ${value}`;
 }
 
 // End of Question 3
