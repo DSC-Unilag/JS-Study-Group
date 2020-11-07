@@ -1,6 +1,4 @@
-
 ## Input your name, file name and phone number here
-
 1. Yisau Abdussamad, yisauAbdussamad, 08123884098.
 2. Olubiyi Emmanuel Adesola, olubiyiEmmanuel, 08116604581
 3. Oluwatosin Mofikoya - oluwatosinMofikoya.js - 07081534129
@@ -15,3 +13,9 @@
 12. Motunrayo Ilawole - motunrayoIlawole.js - 07013752227.
 13. Samuel Shodipo - samuelShodipo.js 08087118767
 14. Akinsanya Taiwo - akinsanyaTaiwo.js - 09026110242
+15. Ayobami Tunwase (08175406220) - ayobamiTunwase.js
+16. Salvador Lekan, SalvadorLekan.js - +2349056027157
+17. Aroyehun Ahmad, ahmadAroyehun-wk2.js, 07054547240
+18. Adeola Idowu, adeolaIdowu - Week 2.js, 07088148692
+19. Daniel Afam, danielAfam.js, 09039539787
+
