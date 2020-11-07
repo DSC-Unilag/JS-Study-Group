@@ -1,6 +1,6 @@
 # JS-Study-Group
 
-## Week 4 Assignment
+## Week 5 Assignment
 
 Week 5 Assignment
 1. MAGIC EIGHT BALL PROJECT.
