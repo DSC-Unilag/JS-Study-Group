@@ -24,4 +24,5 @@
 23. Adeola Idowu, adeolaIdowu - week4.js, +2347088148692
 24. Olawanle Temitayo - olawanleTemitayo.js 07018315632
 25. Justice Osemede- justiceOsemede.js- 08167315203
-
+26.  Daniel Afam, danielAfam.js 09039539787
+27. Abdullah Mumuni, week4.js, 08085008872
