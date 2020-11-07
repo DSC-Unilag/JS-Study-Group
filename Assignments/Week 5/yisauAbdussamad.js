@@ -19,3 +19,16 @@ function question() {
 }
 
 question();
+
+// Question 2
+
+let arr = [];
+
+function arrayOfMultiples(num, length) {
+    for (let index = 1; index <= length; index++) {
+        arr.push(num*index);
+    }
+    return arr;
+}
+
+arrayOfMultiples(7,5);
