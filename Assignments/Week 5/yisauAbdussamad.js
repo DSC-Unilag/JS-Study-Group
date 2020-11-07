@@ -32,3 +32,26 @@ function arrayOfMultiples(num, length) {
 }
 
 arrayOfMultiples(7,5);
+
+//  Question 3
+function memoize(N) {
+    fibArray = [0,1]
+
+    for (let index = 2; index < (N+1); index++) {
+        fibArray.push(fibArray[index - 1] + fibArray[index - 2]); 
+    }
+
+    return fibArray;
+}
+
+function fib(N) {
+    if (N <= 1) {
+        return N;
+    } else {
+        return memoize(N);
+    }
+    
+}
+
+
+fib(20);
