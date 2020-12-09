@@ -1,1 +1,3 @@
-## Input your name, Phone number and Link to Live Project here.
+Jacob Daniel 
+Phone no: 08180900367
+Link : https://ndatusung.github.io
