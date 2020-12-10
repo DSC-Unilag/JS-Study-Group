@@ -1,1 +1,1 @@
-## Input your name, Phone number and Link to Live Project here.
+## Daniel Afam, 09039539787, https://dhanny21.github.io/Wiki-Search-app/.
