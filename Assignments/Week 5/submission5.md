@@ -5,4 +5,19 @@
 4. Ayobami Tunwase - ayobamiTunwase.js - 08175406220
 5. Emmanuel Adesola Olubiyi, emmo_week5.js and 08116604581
 6. Oluwatosin Mofikoya - oluwatosinMofikoya5.js - 07081534129
+7. Akinsanya Taiwo - akinsanyaTaiwo.js - 09026110242
+8. Okafor Elvis - okaforElvis.js - 08091338378
+9. Enjeghe Onukak enjegheOnukakFive.js 09057485825
+10. Erinle Feyijimi - erinleFeyijimi.js -  09057492540
+11. Priyal Tiwary - priyalTiwary5.js - 8927601405
+12. Daniel Afam, danielAfam.js, 09039539787
+13. justice Osemede justiceOsemede.js 08167315203
+14. Olaifa Boluwatife-boluwatifeOlaifa.js-08105889617
+15. Ogunyomi-adekoya victor oluwasen ogunyomi-adekoyaVictor.js 08095556675
+16. Yisau Abdussamad, yisauAbdussamad, 08123884098.
+17. Samuel Shodipo - samuelShodipo.js - 08087118767
+18. Adeola Idowu , adeolaIdowu - week5.js, +2347088148692
+19. Motunrayo Ilawole, motunrayoIlawole.js, 07013752227
+20. Olawanle Temitayo-olawanleTemitayo.js 07018315632
+21. AdebowaleJesutofunmi, adebowaleJesutofunmi5.js, 08189493028
 

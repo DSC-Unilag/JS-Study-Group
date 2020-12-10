@@ -1,16 +1,15 @@
 # JS-Study-Group
 
-## Week 5 Assignment
+## Final Project
 
-Week 5 Assignment
-1. MAGIC EIGHT BALL PROJECT.
-Make a program that generates one of these answers when I ask a question.
-2. Create a function that takes two numbers as arguments (num, length) and returns an
-array of multiples of num until the array length reaches length.
-Examples
-arrayOfMultiples(7, 5) ➞ [7, 14, 21, 28, 35] arrayOfMultiples(12, 10) ➞ [12, 24, 36, 48, 60, 72, 84,
-96, 108, 120] arrayOfMultiples(17, 6) ➞ [17, 34, 51, 68, 85, 102]
-3. Fibonacci Sequence
-Write a JavaScript program to get the first n Fibonacci numbers.
-Note: The Fibonacci Sequence is the series of numbers: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, . . . Each
-subsequent number is the sum of the previous two.
+Final Project
+1. Create a Wiki Search app using the following materials.
+
+API Docs - https://www.mediawiki.org/wiki/API:Main_page
+
+API endpoints sample - https://en.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=30&srsearch=%27Nigeria 
+
+Sample Project - https://harithmetic1.github.io/Wiki-Search-app/
+
+2. Use HTML, CSS and JS to make this work
+3. Host the project and paste the link to the live project in the SubmissionFP.md file in the Final Project folder.
