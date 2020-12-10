@@ -2,4 +2,4 @@
 
 Name: Oke Olalekan Isaac
 Phone Number: 08179459363
-Live Project: khallekan.github.io
+Project: khallekan.github.io
