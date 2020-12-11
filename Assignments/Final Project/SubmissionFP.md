@@ -6,5 +6,4 @@
 5. Jacob Daniel, 08180900367, https://ndatusung.github.io
 6. Akinsanya Taiwo, 09026110242, https://omotayewo.github.io/Wiki_Search_App/
 7. Abdullah Mumuni, 08085008872, https://abdullah-byte.github.io/
- 
-
+8. Daniel Afam, 09039539787, https://dhanny21.github.io/Wiki-Search-app/
