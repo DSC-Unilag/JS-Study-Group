@@ -4,4 +4,5 @@
 3. Adebayo Benjamin, 09030622835, https://adebayobenjamin.github.io/Wiki-Search-App/
 4. Tunwase Ayobami, 08175406220, https://ayobami11.github.io/dsc-study-group/task6/index.html 
 5. Jacob Daniel, 08180900367, https://ndatusung.github.io
+6. Akinsanya Taiwo, 09026110242, https://omotayewo.github.io/Wiki_Search_App/
 
