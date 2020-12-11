@@ -11,4 +11,5 @@
 10. Okafor Elvis, 08091338378, https://acelewy.github.io/Dscfinalproject/
 11. Olawanle Temitayo, 07018315632, https://temmywikisearchapp.netlify.app/
 12. Motunrayo Ilawole, 07013752227, https://w1ki-site.netlify.app/
+13. Samuel Shodipo, 08087118767, https://sammiekei40.github.io/WikipediaWebApp/
 
