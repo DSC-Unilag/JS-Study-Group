@@ -13,4 +13,5 @@
 12. Motunrayo Ilawole, 07013752227, https://w1ki-site.netlify.app/
 13. Samuel Shodipo, 08087118767, https://sammiekei40.github.io/WikipediaWebApp/
 14. Oke Olalekan Isaac, 08179459363, khallekan.github.io
+15. Justice Osemede, 08167315203, https://justice-wikisearchapp.netlify.app
 
