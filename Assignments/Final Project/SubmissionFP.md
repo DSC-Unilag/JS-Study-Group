@@ -9,4 +9,4 @@
 8. Daniel Afam, 09039539787, https://dhanny21.github.io/Wiki-Search-app/
 9. Yisau Abdussamad, 08123884098, https://abdussamadyisau.github.io/WikiSearch/index.html
 10. Okafor Elvis, 08091338378, https://acelewy.github.io/Dscfinalproject/
-
+11. Olawanle Temitayo, 07018315632, https://temmywikisearchapp.netlify.app/
